@@ -4,5 +4,6 @@ class Cat
 
   def method_name
     @meow = "meow!"
+    puts "meow!"
   end
 end
