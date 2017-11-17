@@ -6,3 +6,5 @@ class Cat
     @meow = "Meow!"
   end
 end
+
+maru.meow
