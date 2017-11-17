@@ -3,6 +3,6 @@ class Cat
   attr_accessor :name
 
   def method_name
-    @meow = "Meow!"
+    @meow = "meow!"
   end
 end
